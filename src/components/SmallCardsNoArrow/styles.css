@@ -1,0 +1,28 @@
+.small-cards-noarrow {
+  display: flex;
+  margin: 25px 0px;
+  font-weight: 500;
+}
+.scrollable {
+  white-space: nowrap;
+  overflow: auto;
+}
+.small-cards-noarrow.scrollable .small-card-noarrow__content {
+  width: 70vw;
+}
+
+.small-card-noarrow__content {
+  display: flex;
+  align-items: center;
+  padding: 5px 15px;
+  background: white;
+  margin: 0 10px 5px;
+  border-radius: 12px;
+}
+.small-cards-noarrow.nonscrollable .small-card-noarrow__content {
+  width: 50%;
+}
+
+.small-card-noarrow__img {
+  margin-right: 15px;
+}

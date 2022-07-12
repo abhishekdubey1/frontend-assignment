@@ -1,0 +1,36 @@
+.big-display-card {
+  display: flex;
+  border-radius: 10px;
+  overflow: hidden;
+  height: 250px;
+}
+.big-display-card__buttons {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.big-display-card__content {
+  padding: 0px 15px 30px;
+  background-size: 70%;
+  background-repeat: no-repeat;
+  height: 95%;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  cursor: pointer;
+}
+.big-display-card__cta-btn button {
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+.big-display-card__button {
+  background-color: #f7f6f3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 10px;
+  padding-top: 10px;
+  border-radius: 12px;
+  cursor: pointer;
+}

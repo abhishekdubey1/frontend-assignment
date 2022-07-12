@@ -1,0 +1,7 @@
+.dynamic-width-cards {
+  display: flex;
+  justify-content: space-around;
+  white-space: nowrap;
+  overflow: auto;
+  margin: 10px;
+}
