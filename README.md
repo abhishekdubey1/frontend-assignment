@@ -1,4 +1,4 @@
-## Deployed [frontend-assignment-ruddy.vercel.app](frontend-assignment-ruddy.vercel.app)
+## Deployed [[frontend-assignment-ruddy.vercel.app](frontend-assignment-ruddy.vercel.app)](https://frontend-assignment-ruddy.vercel.app/)
 
 ## How to get started
 - Clone the repo
